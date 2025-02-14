@@ -59,7 +59,8 @@ the workforce's age distribution.
 
 ### HR Analytics Dashboard Analysis for Associate’s Degree Holders
 
-![image](https://github.com/user-attachments/assets/7cfcb03a-cd68-483f-8f37-2f9b038b66b5)
+![image](https://github.com/user-attachments/assets/9c43f2b4-1c82-4700-92a0-3b5800463db7)
+
 
 * The dashboard focuses on key HR metrics and highlights attrition trends, job satisfaction, and workforce distribution for employees with an Associate’s Degree. 
 * The total number of employees is 282, with 44 employees having left the company, resulting in an attrition rate of 15.60%. Currently, 238 employees remain active, and the average age of the workforce is 37.
