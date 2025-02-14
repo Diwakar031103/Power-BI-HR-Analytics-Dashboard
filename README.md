@@ -15,3 +15,14 @@ the workforce's age distribution.
 
 ### Job Satisfaction Matrix (Table)
 * This table displays job satisfaction levels across different job roles. Sales Executives and Research Scientists show higher levels of dissatisfaction compared to other roles. HR needs to analyze the reasons behind lower satisfaction in certain job roles to improve employee engagement and retention.
+
+### Education Field-wise Attrition (Bar Chart)
+* Employees from Life Sciences (89) and Medical (63) backgrounds have the highest attrition rates. This insight can be useful for developing better hiring and retention strategies.
+
+### Attrition Rate by Gender for Different Age Groups (Donut Charts)
+*Under 25: 52.6%
+25-34: 61.6%
+35-44: 27.45%
+45-54: 36%
+Above 55: 27.72%
+The highest attrition is observed in the 25-34 age group, which could be a major concern for the company.
