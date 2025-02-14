@@ -43,4 +43,11 @@ the workforce's age distribution.
 * The 25-34 age group has the highest attrition rate at 61.6%, which suggests that retaining young professionals is a challenge.
 #### Q7. How does work-life balance impact employees?
 * If work-life balance is poor, employees may experience burnout, leading to dissatisfaction and higher attrition. Ensuring a healthy work-life balance can help improve employee retention.
-  
+
+### Insights & Recommendations
+#### High Attrition in Sales and HR Departments
+* → It is essential to focus on employee engagement, salary benchmarking, and improving the work environment to reduce attrition in these departments.
+#### Highest Attrition in the 25-34 Age Group
+* → To retain employees in this age group, the company should implement better career growth plans, mentorship programs, and skill development opportunities.
+#### Low Job Satisfaction in Certain Roles
+* → HR should analyze employee feedback and address key concerns to improve job satisfaction in roles experiencing higher dissatisfaction levels.
