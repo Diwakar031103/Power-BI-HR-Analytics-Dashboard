@@ -28,7 +28,7 @@ the workforce's age distribution.
 * Above 55: 27.72%
 * The highest attrition is observed in the 25-34 age group, which could be a major concern for the company.
 
-## HR Analytics Dashboard Problems and Solutions
+## HR Analytics: Challenges and Data-Driven Solutions
   
 #### Q1. What is the overall impact of attrition on the company?
 * The overall attrition rate is 16.12%, which is quite high. Currently, there are 1,233 active employees, indicating a significant workforce reduction.
