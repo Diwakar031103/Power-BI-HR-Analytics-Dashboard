@@ -20,9 +20,27 @@ the workforce's age distribution.
 * Employees from Life Sciences (89) and Medical (63) backgrounds have the highest attrition rates. This insight can be useful for developing better hiring and retention strategies.
 
 ### Attrition Rate by Gender for Different Age Groups (Donut Charts)
-Under 25: 52.6%
-25-34: 61.6%
-35-44: 27.45%
-45-54: 36%
-Above 55: 27.72%
-The highest attrition is observed in the 25-34 age group, which could be a major concern for the company.
+* Under 25: 52.6%
+* 25-34: 61.6%
+* 35-44: 27.45%
+* 45-54: 36%
+* Above 55: 27.72%
+* The highest attrition is observed in the 25-34 age group, which could be a major concern for the company.
+
+  ### HR Analytics Dashboard Problems and Solutions
+  
+* Q1. What is the overall impact of attrition on the company?
+- The overall attrition rate is 16.12%, which is quite high. Currently, there are 1,233 active employees, indicating a significant workforce reduction.
+* Q2. Which department has the highest attrition?
+- The Sales department (56.12%) and HR department (38.82%) have the highest attrition, while the R&D department has the lowest attrition.
+* Q3. Which age group has the highest number of employees?
+- The 25-34 age group has the highest number of employees, which indicates a workforce dominated by early-career professionals.
+* Q4. Which job roles have the highest dissatisfaction?
+- Sales Executives and Research Scientists show the highest levels of job dissatisfaction, which may require HR intervention.
+* Q5. Which education background has the highest attrition?
+-  Employees from Life Sciences (89 resignations) and Medical fields (63 resignations) have the highest attrition rates. This insight can help in developing better hiring and retention strategies.
+* Q6. Which age group and gender have the highest attrition rate?
+- The 25-34 age group has the highest attrition rate at 61.6%, which suggests that retaining young professionals is a challenge.
+* Q7. How does work-life balance impact employees?
+- If work-life balance is poor, employees may experience burnout, leading to dissatisfaction and higher attrition. Ensuring a healthy work-life balance can help improve employee retention.
+  
