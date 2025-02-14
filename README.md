@@ -71,3 +71,15 @@ the workforce's age distribution.
 ### No. of Employees by Age Group (Bar Chart)
 * The highest workforce concentration is in the 25-34 age group, while the lowest is in the above 55 age group.
 * This highlights workforce age distribution trends, which can help in succession planning and developing effective talent retention strategies.
+
+### Job Satisfaction Matrix (Table Chart)
+* Satisfaction scores highlight key areas for enhancing workplace culture.
+* This analysis identifies job roles with low employee satisfaction, enabling HR to implement targeted engagement initiatives and optimize incentive structures to improve retention and morale.
+
+### Education Field-Wise Attrition (Bar Chart)
+* Life Sciences and Medical professionals exhibit the highest attrition rates.
+* This analysis enables HR to identify educational backgrounds with higher turnover, facilitating the development of targeted hiring strategies and retention initiatives to enhance workforce stability.
+
+###  Attrition Rate by Gender & Age Group (Donut Charts)
+* The highest attrition rate is observed in the 25-34 age group (55.56%), while attrition among older employees remains lower.
+* This analysis highlights age-specific attrition trends, enabling HR to design tailored retention strategies to address workforce stability and engagement across different age groups.
