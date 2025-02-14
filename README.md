@@ -45,7 +45,7 @@ the workforce's age distribution.
 #### Q7. How does work-life balance impact employees?
 * If work-life balance is poor, employees may experience burnout, leading to dissatisfaction and higher attrition. Ensuring a healthy work-life balance can help improve employee retention.
 
-### Insights & Recommendations
+## Insights & Recommendations
 #### High Attrition in Sales and HR Departments
 * → It is essential to focus on employee engagement, salary benchmarking, and improving the work environment to reduce attrition in these departments.
 #### Highest Attrition in the 25-34 Age Group
