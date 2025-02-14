@@ -52,3 +52,11 @@ the workforce's age distribution.
 * → To retain employees in this age group, the company should implement better career growth plans, mentorship programs, and skill development opportunities.
 #### Low Job Satisfaction in Certain Roles
 * → HR should analyze employee feedback and address key concerns to improve job satisfaction in roles experiencing higher dissatisfaction levels.
+
+
+
+## Education-Wise Analysis
+
+### HR Analytics Dashboard Analysis for Associate’s Degree Holders
+
+![image](https://github.com/user-attachments/assets/7cfcb03a-cd68-483f-8f37-2f9b038b66b5)
