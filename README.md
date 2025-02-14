@@ -20,7 +20,7 @@ the workforce's age distribution.
 * Employees from Life Sciences (89) and Medical (63) backgrounds have the highest attrition rates. This insight can be useful for developing better hiring and retention strategies.
 
 ### Attrition Rate by Gender for Different Age Groups (Donut Charts)
-* Under 25: 52.6%
+Under 25: 52.6%
 25-34: 61.6%
 35-44: 27.45%
 45-54: 36%
