@@ -53,34 +53,3 @@ the workforce's age distribution.
 #### Low Job Satisfaction in Certain Roles
 * → HR should analyze employee feedback and address key concerns to improve job satisfaction in roles experiencing higher dissatisfaction levels.
 
-
-
-## Education-Wise Analysis
-
-### HR Analytics Dashboard Analysis for Associate’s Degree Holders
-
-![image](https://github.com/user-attachments/assets/9c43f2b4-1c82-4700-92a0-3b5800463db7)
-
-
-* The dashboard focuses on key HR metrics and highlights attrition trends, job satisfaction, and workforce distribution for employees with an Associate’s Degree. 
-* The total number of employees is 282, with 44 employees having left the company, resulting in an attrition rate of 15.60%. Currently, 238 employees remain active, and the average age of the workforce is 37.
-* This data helps in understanding overall workforce statistics, analyzing attrition trends, and evaluating the impact of employee turnover among Associate’s Degree holders.
-
-### Department-Wise Attrition (Pie Chart)
-* The R&D department has the highest attrition rate at 52.27%, followed by Sales at 40.91%, while HR has the lowest attrition at 6.82%.
-
-### No. of Employees by Age Group (Bar Chart)
-* The highest workforce concentration is in the 25-34 age group, while the lowest is in the above 55 age group.
-* This highlights workforce age distribution trends, which can help in succession planning and developing effective talent retention strategies.
-
-### Job Satisfaction Matrix (Table Chart)
-* Satisfaction scores highlight key areas for enhancing workplace culture.
-* This analysis identifies job roles with low employee satisfaction, enabling HR to implement targeted engagement initiatives and optimize incentive structures to improve retention and morale.
-
-### Education Field-Wise Attrition (Bar Chart)
-* Life Sciences and Medical professionals exhibit the highest attrition rates.
-* This analysis enables HR to identify educational backgrounds with higher turnover, facilitating the development of targeted hiring strategies and retention initiatives to enhance workforce stability.
-
-###  Attrition Rate by Gender & Age Group (Donut Charts)
-* The highest attrition rate is observed in the 25-34 age group (55.56%), while attrition among older employees remains lower.
-* This analysis highlights age-specific attrition trends, enabling HR to design tailored retention strategies to address workforce stability and engagement across different age groups.
